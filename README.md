@@ -115,8 +115,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For questions or contributions, please contact:
-- **Name**: [Nandhakumar K P]
-- **Email**: [Your Email]
+- **Name**: Nandhakumar K P
+- **Email**: hello.nandha12@gmail.com
 
 ## Acknowledgments
 - EasyOCR for OCR capabilities.
